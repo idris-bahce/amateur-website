@@ -1,2 +1,3 @@
 # amateur-website
-first stone to proffecional web developer
+First stone to professional web developer
+See website: idris-bahce.github.io/amateur-website/
